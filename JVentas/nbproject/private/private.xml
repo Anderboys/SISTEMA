@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/MainWindow.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/buscar/BuscarCompra.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/buscar/BuscarProducto.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/buscar/BuscarProveedor.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/buscar/BuscarUsuario.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/paneles/PanelMoneda.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/paneles/PanelLogin.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/paneles/PanelListaProductosAlmacen.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/paneles/PanelBitacora.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/paneles/PanelAutorizacion.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/paneles/PanelAperturaDeInventario.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/paneles/PanelAlmacen.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/paneles/PanelAccion.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/paneles/EncargadoAlmacenPanel.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/paneles/CambiarPassword.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/DLogin.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/ICompra.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/IProducto.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/IProveedores.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/ISimpleModelo.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/ventanas/IUsuario.java</file>
+        <file>file:/C:/Users/SANCHEZ/Desktop/JVentas/src/elaprendiz/util/Thumbnail.java</file>
+    </open-files>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/asumaretv/Documents/NetBeansProjects/JVentas/src/elaprendiz/modelbd/Almacen.java</file>
+            <file>file:/C:/Users/asumaretv/Documents/NetBeansProjects/JVentas/src/elaprendiz/ventanas/paneles/PanelAutorizacion.java</file>
+            <file>file:/C:/Users/asumaretv/Documents/NetBeansProjects/JVentas/src/app/TestApp.java</file>
+            <file>file:/C:/Users/asumaretv/Documents/NetBeansProjects/JVentas/src/elaprendiz/ventanas/IUsuario.java</file>
+        </group>
+    </open-files>
+</project-private>
